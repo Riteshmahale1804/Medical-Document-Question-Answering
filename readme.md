@@ -21,4 +21,6 @@ Run the vector.py script to generate embeddings for the provided documents.
 
 ## Run the Application:
 Execute the main.py script to run the main application.
+
+
 streamlit run main.py
